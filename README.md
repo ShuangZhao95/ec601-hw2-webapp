@@ -25,4 +25,4 @@ In task2, I use the authentication, database and storage in the firebase platfor
 
 You can open this FriendlyChat web by clicking the link in my resume page or by clicking the following link.
 
- - [FriendlyChat By Shuang Zhao](https://friendlychat-by-shuang.firebaseapp.com/). 
+ - [FriendlyChat By Shuang Zhao](https://friendlychat-by-shuang.firebaseapp.com/). 
