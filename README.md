@@ -14,7 +14,7 @@ The following is a partly screenshot of my resume web page:
 
 ## For task2 
 
-I follow the tutorial to build a friendlychat web.
+I follow the tutorial and make changes to web-start folder to build a friendlychat web.
  
  - [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/). 
  - [Firebase SDK for Cloud Functions Codelab](https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/).
