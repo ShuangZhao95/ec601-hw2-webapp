@@ -8,6 +8,10 @@ Just download the resume by Shuang Zhao.html and folders of assets, dist and ima
 
 In my resume web, you can talk to me or make comments by clicking the green buttom.
 
+The following is a partly screenshot of my resume web page:
+
+![image](https://github.com/ShuangZhao95/ec601-hw2-webapp/blob/master/image/screenshot.png)
+
 ## For task2 
 
 I follow the tutorial to build a friendlychat web.
