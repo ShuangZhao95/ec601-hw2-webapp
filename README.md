@@ -1,5 +1,7 @@
 # ec601-hw2-webapp
 
+This is the hw2 of ec601 design by Shuang Zhao (zs1995@bu.edu)
+
 ## For task1 
 
 Just download the resume by Shuang Zhao.html and folders of assets, dist and image. you can have a look at the resume web app design by me!
