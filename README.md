@@ -5,7 +5,7 @@ This is the hw2 of ec601 design by Shuang Zhao (zs1995@bu.edu)
 
 ## For task1 
 
-Just go to this website(https://shuangzhao95.github.io/) then you can have a look at the resume web app design by me!
+Just go to this website(https://shuangzhao95.github.io/) then you can have a look at the resume web app designed by me!
 
 In my resume web, you can talk to me or make comments by clicking the green buttom.
 
